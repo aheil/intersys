@@ -23,3 +23,5 @@ comment:
 Dieses Repository ist Teil des Studiengangs Informatik an der DHBW Karlsruhe.
 
  Diese Seiten sind als [interaktiver Kurs verfügbar](https://liascript.github.io/course/?https://github.com/aheil/intersys) verfügbar.
+
+ Studierende im aktuellen Kurs, die Tippfehler finden und diese via PR einreichen erhalten in der Veranstaltung Gummibärchen. 
